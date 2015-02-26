@@ -6,7 +6,7 @@ import (
 	"crypto/aes"
 	"crypto/sha256"
 	"encoding/hex"
-	"github.com/piotrnar/gocoin/btc"
+	"github.com/piotrnar/gocoin/lib/btc"
 	"log"
 	"math/big"
 )
